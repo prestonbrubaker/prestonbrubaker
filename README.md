@@ -7,7 +7,7 @@
 - ⚡ Fun fact: Willoh
 
 
-Hot take... So everyone always asks me what my favorite way to graph/display data is. Well, for those who really want to know, there is only one answer... Pygame > Matplotlib anyday of the week
+Hot take... So everyone always asks me what my favorite way to graph/display data is. Well, for those who really want to know, there is only one answer... Pygame > Matplotlib any day of the week.
 
 
 <!---
