@@ -4,7 +4,7 @@
 - 💞️ I’m looking at Willoh
 - 📫 How to reach me Willoh
 - 😄 Pronouns: Will/Oh
-- ⚡ Fun fact: Willoh
+- ⚡ Fun fact: My favorite terminal command is: "Pip install pygame"
 
 
 Hot take... So everyone always asks me what my favorite way to graph/display data is. Well, for those who really want to know, there is only one answer... Pygame > Matplotlib any day of the week.
