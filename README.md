@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @prestonbrubaker
-- 👀 I’m interested in Willoh
-- 🌱 I’m currently learning Willoh
-- 💞️ I’m looking at Willoh
-- 📫 How to reach me Willoh
-- 😄 Pronouns: Will/Oh
+- 👀 
+- 🌱 
+- 💞️ 
+- 📫 
+- 😄 
 - ⚡ Fun fact: My favorite terminal command is: "Pip install pygame"
 
 
